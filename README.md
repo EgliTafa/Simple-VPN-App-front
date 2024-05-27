@@ -12,7 +12,7 @@ The Simple VPN App Frontend is a user-friendly WPF application designed for secu
 - **HttpClient**: For making HTTP requests to the backend APIs.
 
 ## Features
-### User Registration
+### ~~User Registration~~ WIP
 - **Form-based Registration**: Users can create a new account by providing a username, first name, last name, email, and password.
 - **Validation**: Client-side validation ensures all required fields are filled out correctly before submission.
 
